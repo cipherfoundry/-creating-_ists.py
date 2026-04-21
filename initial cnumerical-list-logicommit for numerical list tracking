@@ -1,0 +1,9 @@
+# Maestro University | PY101: Lesson 4 - Numerical List Operations
+# Focus: Data structures and index-based mutation of integer sets.
+
+steps = [10, 25, 42, 8, 33, 17, 55]
+print(steps)
+print(len(steps))
+
+steps[6] = 18
+print(steps)
